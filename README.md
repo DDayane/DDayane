@@ -24,6 +24,6 @@
  <a href = "https://trailblazer.me/id/dduarte22" target="_blank"><img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=Salesforce&logoColor=white">
   
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/DDayane/DDayane/blob/output/github-contribution-grid-snake.svg)
    
 </div>
