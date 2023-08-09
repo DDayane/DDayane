@@ -1,4 +1,5 @@
-## Oieee!! Eu sou a Dayane... mas também pode me chamar de <i>Nany</i> 😊 
+## Oieee!! Eu sou a Dayane... 😊 
+## Helloo!! My name is Dayane... 😊 
 
 <div align="center"
   <a href="https://github.com/DDayane">
