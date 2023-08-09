@@ -12,7 +12,7 @@
   <img align="center" alt="Day-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Day-Soql" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png">
-  <img align="center" alt="Day-Apex" height="55" width="60" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/soql-for-admins/04607670444dbbe5aac7e77bc03c4fd1_badge.png">
+  <img align="center" alt="Day-Apex" height="45" width="50" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/soql-for-admins/04607670444dbbe5aac7e77bc03c4fd1_badge.png">
   <img align="center" alt="Day-lwc" height="45" width="60" src="https://www.codescience.com/wp-content/uploads/2020/12/lightning_ready_badge.png">
   
   
