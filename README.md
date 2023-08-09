@@ -13,6 +13,7 @@
   <img align="center" alt="Day-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="center" alt="Day-Soql" height="50" width="60" src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png">
   <img align="center" alt="Day-Apex" height="65" width="90" src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/101583193/original/ba3082e455d45e891ebb2da11786f66128bd94b7/develop-apex-visual-force-page-for-you.jpg">
+    <img align="center" alt="Day-Apex" height="65" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Day-lwc" height="45" width="60" src="https://www.codescience.com/wp-content/uploads/2020/12/lightning_ready_badge.png">
   
   
